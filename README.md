@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Hi. Rishi here. I am interested in AI.
